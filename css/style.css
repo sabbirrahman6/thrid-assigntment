@@ -1,0 +1,30 @@
+boyd {
+    font-family: "Poppins", sans-serif;
+}
+
+/* carousel */
+
+.carousel-item {
+    position: relative;
+}
+
+.carousel-item .carousel-content {
+    background: rgba(0, 0, 0, 0, ) !important;
+    height: 100%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-flow: column;
+    position: absolute;
+    left: 0;
+    top: 0;
+    color: white;
+    text-align: center;
+}
+
+.carousel-caption {
+    bottom: 20% !important;
+    width: 60%;
+    margin: auto;
+}
