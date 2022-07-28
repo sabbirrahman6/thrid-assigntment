@@ -9,7 +9,7 @@ boyd {
 }
 
 .carousel-item .carousel-content {
-    background: rgba(0, 0, 0, 0, ) !important;
+    background: rgba(0, 0, 0, .5) !important;
     height: 100%;
     width: 100%;
     display: flex;
